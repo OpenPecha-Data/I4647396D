@@ -1,0 +1,46 @@
+id: I4647396D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:56:03.717312'
+last_modified: '2022-05-30T21:56:03.717328'
+parser: null
+source_metadata:
+  title: Jokyab Pema Trinlé Nyingpo
+  language: en
+  description: 'Texts by and about Jokyab Pema Trinlé Nyingpo (jo skyabs pad+ma ''phrin
+    las snying po, 1903–1960):'
+  volume:
+    f12CD:
+      title: 'A Drop of Jewels: A Guru Yoga for Lord Gampopa'
+      base_file: f12CD.txt
+      order: 1
+      parent: Guru Yoga
+    f0E61:
+      title: 'A Drop of Moonlight: A Guru Yoga for Lord Mila'
+      base_file: f0E61.txt
+      order: 2
+      parent: Guru Yoga
+    fAA05:
+      title: 'A Drop of Sunshine: A Guru Yoga for Lord Marpa'
+      base_file: fAA05.txt
+      order: 3
+      parent: Guru Yoga
+    fE7CB:
+      title: 'Vajra Net: The Ancillary Preliminary and Concluding Practices for the
+        Three Drops, the Guru Yogas for Venerable Marpa, Mila, and Gampopa'
+      base_file: fE7CB.txt
+      order: 4
+      parent: Guru Yoga
+    f64CB:
+      title: Words of Jamyang Khyentse
+      base_file: f64CB.txt
+      order: 5
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
